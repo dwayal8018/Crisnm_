@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "linkText": "WHY CRISNM?",
+        "child": false,
+        "icon":"home",
+        "link":"#whycrisnm"
+    },
+    {
+        "id": 2,
+        "linkText": "PRODUCT",
+        "child": false,
+        "icon":"layers",
+        "link": "#product"
+    },
+    {
+        "id": 3,
+        "linkText": "CONTACT US",
+        "child": false,
+        "icon":"list",
+        "link":"#contact"
+    }
+    
+]

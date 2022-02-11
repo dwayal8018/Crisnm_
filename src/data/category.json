@@ -1,0 +1,28 @@
+{
+    "type": [
+        {
+            "img": "assets/img/crisnm/3/check.png",
+            "text":"Compliance dashboard composes views with various security parameters."
+        },
+        {
+            "img": "assets/img/crisnm/3/check.png",
+            "text":"Policies and guidelines for the dashboard and the analytics engine."
+        },
+        {
+            "img": "assets/img/crisnm/3/check.png",
+            "text":"Analytics component with continuous discovery on attack  surface to identify possible risk."
+        },
+        {
+            "img": "assets/img/crisnm/3/check.png",
+            "text":"State changes for Assests to ensure protection & feeds to the runtime operational metrics."
+        },
+        {
+            "img": "assets/img/crisnm/3/check.png",
+            "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+        },
+        {
+            "img": "assets/img/crisnm/3/check.png",
+            "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+        }
+    ]
+}
